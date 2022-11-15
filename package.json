@@ -1,0 +1,14 @@
+{
+  "name": "cypress_practice",
+  "version": "1.0.0",
+  "description": "student work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexei Revenko",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.10.0"
+  }
+}
